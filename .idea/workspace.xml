@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="716d0843-112d-4206-8f0a-1b8cf6ed80e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GGVCvcmdGqEIe7KASPnzWSNHGo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\films\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\films" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="716d0843-112d-4206-8f0a-1b8cf6ed80e7" name="Default Changelist" comment="" />
+      <created>1666014783303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666014783303</updated>
+      <workItem from="1666014784710" duration="1106000" />
+      <workItem from="1666016020266" duration="6542000" />
+      <workItem from="1666169882902" duration="8089000" />
+      <workItem from="1666205909006" duration="852000" />
+      <workItem from="1666262966661" duration="576000" />
+      <workItem from="1666280208985" duration="15831000" />
+      <workItem from="1666342815746" duration="2554000" />
+      <workItem from="1666345419471" duration="625000" />
+      <workItem from="1666346097261" duration="4222000" />
+      <workItem from="1666442556230" duration="3379000" />
+      <workItem from="1666518275498" duration="135000" />
+      <workItem from="1666635732923" duration="1522000" />
+      <workItem from="1666637315369" duration="5291000" />
+      <workItem from="1666691207644" duration="5529000" />
+      <workItem from="1666775490059" duration="1623000" />
+      <workItem from="1666777144332" duration="6276000" />
+      <workItem from="1666873034917" duration="17925000" />
+      <workItem from="1667305564278" duration="7595000" />
+      <workItem from="1667376604321" duration="5855000" />
+      <workItem from="1667549575065" duration="6086000" />
+      <workItem from="1667823978791" duration="165000" />
+      <workItem from="1667904928412" duration="878000" />
+      <workItem from="1667912075728" duration="1251000" />
+      <workItem from="1667921488264" duration="739000" />
+      <workItem from="1667981488115" duration="1226000" />
+      <workItem from="1667983334898" duration="354000" />
+      <workItem from="1669466321210" duration="193000" />
+      <workItem from="1669491739054" duration="293000" />
+      <workItem from="1669915313129" duration="132000" />
+      <workItem from="1670057634842" duration="644000" />
+      <workItem from="1670079192955" duration="383000" />
+      <workItem from="1672074840100" duration="247000" />
+      <workItem from="1672075106606" duration="760000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1666643332174">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1666643332174" />
+  </component>
+</project>
